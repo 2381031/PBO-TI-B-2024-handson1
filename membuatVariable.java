@@ -13,6 +13,7 @@ public class membuatVariable {
          String fullName;
          fullName = " Andre Lumbantoruan";
 
-        final int PHI_VALUE = 3.14;
+        final double PHI_VALUE = 3.14;
+
     }
 }
